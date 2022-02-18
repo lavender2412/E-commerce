@@ -1,0 +1,15 @@
+.main-heading{
+    font-family: 'Roboto', sans-serif;
+}
+
+.active{
+    font-weight: bold;
+   
+}
+nav li a{
+   color:black;
+}
+
+nav li a:focus{
+    color:lavender;
+}
